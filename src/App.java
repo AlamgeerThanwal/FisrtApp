@@ -14,7 +14,7 @@ public class App extends JFrame implements ActionListener
 	App()
 	{
 		userLabel=new JLabel();
-		userLabel.setText("Name"); 
+		userLabel.setText("UserName"); 
 		
 		textField1=new JTextField(15);
 		
